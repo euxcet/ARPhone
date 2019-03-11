@@ -662,7 +662,7 @@ PlayerSettings:
     m_ModelFolderPath: 
     m_PortalFolderPath: 
   luminCert:
-    m_CertPath: 
+    m_CertPath: C:/Users/RJ/Desktop/cert/arphone.cert
     m_PrivateKeyPath: 
   luminIsChannelApp: 0
   luminVersion:
@@ -670,6 +670,7 @@ PlayerSettings:
     m_VersionName: 
   luminPrivilege:
   - ControllerPose
+  - Internet
   luminMinimumPlatformAPILevel: 3
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
